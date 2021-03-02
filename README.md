@@ -1,1 +1,2 @@
-# Pyhton-Projects
+# Python-Projects
+# Stone-Paper-Scissor
